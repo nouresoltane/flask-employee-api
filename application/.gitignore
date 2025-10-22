@@ -1,0 +1,11 @@
+# Python and Flask
+venv/
+__pycache__/
+*.pyc
+
+# SQLite databases
+instance/
+*.db
+
+# Environment variables
+.env
